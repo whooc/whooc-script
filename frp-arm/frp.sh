@@ -4,7 +4,7 @@ mkdir /etc/frp
 echo -e "进入目录"
 cd /etc/frp
 echo -e "下载文件"
-wget https://cloudflare.whooc.com/frp/frp.tar.gz
+wget https://raw.githubusercontent.com/whooc/whooc-script/main/frp-arm/frp.tar.gz
 echo -e "解压文件"
 tar -xzvf frp.tar.gz
 echo -e "复制启动文件到系统目录"
