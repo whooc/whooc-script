@@ -1,2 +1,1 @@
-有新消息！附上使用方法：
-- 命令 `/block` ,  `/unblock` ,  `/checkblock` 等
+转发新消息！命令 `/block` ,  `/unblock` ,  `/checkblock` 等
