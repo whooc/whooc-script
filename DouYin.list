@@ -1,0 +1,53 @@
+# ------------ DouYin / ByteDance 规则开始 ------------
+
+# DOMAIN 精确匹配
+DOMAIN,lf3-static.bytednsdoc.com
+DOMAIN,v5-dy-o-abtest.zjcdn.com
+
+# 抖音 / 字节跳动核心域名
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,idouyinvod.com
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,ixiguavideo.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,zjcdn.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,volcvod.com
+DOMAIN-SUFFIX,volcengine.com
+DOMAIN-SUFFIX,bytednsdoc.com
+
+# 子域名（全部有效）
+DOMAIN,api-hl.amemv.com
+DOMAIN,api-play-hl.amemv.com
+DOMAIN,api.amemv.com
+DOMAIN,api3-normal-c-hl.amemv.com
+DOMAIN,api3-normal-c-lf.amemv.com
+DOMAIN,bsync3-normal-hl.zijieapi.com
+DOMAIN,klink5-lf.amemv.com
+DOMAIN,ma3-normal-hl.zijieapi.com
+DOMAIN,ma5-normal-hl.zijieapi.com
+DOMAIN,mon0-misc-lf.amemv.com
+DOMAIN,p11.douyinpic.com
+DOMAIN,p3.douyinpic.com
+DOMAIN,pitaya.bytedance.com
+DOMAIN,search3-search-hl.amemv.com
+DOMAIN,tnc0-aliec2.zijieapi.com
+DOMAIN,v11-x.douyinvod.com
+DOMAIN,v26-daily-e.douyinvod.com
+DOMAIN,v27-wha.douyinvod.com
+DOMAIN,v3-cold2.douyinvod.com
+DOMAIN,v5-se-qn-daily-cm-wha.douyinvod.com
+DOMAIN,webcast.amemv.com
+DOMAIN,webcast3-core-c-hl.amemv.com
+DOMAIN,webcast3-normal-c-lf.amemv.com
+DOMAIN,www.bytedance.com
+DOMAIN,vod-settings.volcvod.com
+
+# ------------ DouYin / ByteDance 规则结束 ------------
