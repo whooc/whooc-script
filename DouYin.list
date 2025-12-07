@@ -1,10 +1,5 @@
-# ------------ DouYin / ByteDance 规则开始 ------------
-
-# DOMAIN 精确匹配
-DOMAIN-SUFFIX,lf3-static.bytednsdoc.com
-DOMAIN-SUFFIX,v5-dy-o-abtest.zjcdn.com
-
-# 抖音 / 字节跳动核心域名
+DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,zjcdn.com
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,douyinpic.com
@@ -16,38 +11,9 @@ DOMAIN-SUFFIX,ixiguavideo.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,toutiao.com
-DOMAIN-SUFFIX,zjcdn.com
 DOMAIN-SUFFIX,zijieapi.com
-DOMAIN-SUFFIX,bytedance.com
-DOMAIN-SUFFIX,volcvod.com
-DOMAIN-SUFFIX,volcengine.com
-DOMAIN-SUFFIX,bytednsdoc.com
-
-# 子域名（全部有效）
-DOMAIN-SUFFIX,api-hl.amemv.com
-DOMAIN-SUFFIX,api-play-hl.amemv.com
-DOMAIN-SUFFIX,api.amemv.com
-DOMAIN-SUFFIX,api3-normal-c-hl.amemv.com
-DOMAIN-SUFFIX,api3-normal-c-lf.amemv.com
-DOMAIN-SUFFIX,bsync3-normal-hl.zijieapi.com
-DOMAIN-SUFFIX,klink5-lf.amemv.com
-DOMAIN-SUFFIX,ma3-normal-hl.zijieapi.com
-DOMAIN-SUFFIX,ma5-normal-hl.zijieapi.com
-DOMAIN-SUFFIX,mon0-misc-lf.amemv.com
-DOMAIN-SUFFIX,p11.douyinpic.com
-DOMAIN-SUFFIX,p3.douyinpic.com
-DOMAIN-SUFFIX,pitaya.bytedance.com
-DOMAIN-SUFFIX,search3-search-hl.amemv.com
-DOMAIN-SUFFIX,tnc0-aliec2.zijieapi.com
-DOMAIN-SUFFIX,v11-x.douyinvod.com
-DOMAIN-SUFFIX,v26-daily-e.douyinvod.com
-DOMAIN-SUFFIX,v27-wha.douyinvod.com
-DOMAIN-SUFFIX,v3-cold2.douyinvod.com
-DOMAIN-SUFFIX,v5-se-qn-daily-cm-wha.douyinvod.com
-DOMAIN-SUFFIX,webcast.amemv.com
-DOMAIN-SUFFIX,webcast3-core-c-hl.amemv.com
-DOMAIN-SUFFIX,webcast3-normal-c-lf.amemv.com
-DOMAIN-SUFFIX,www.bytedance.com
-DOMAIN-SUFFIX,vod-settings.volcvod.com
-
-# ------------ DouYin / ByteDance 规则结束 ------------
+DOMAIN-SUFFIX,bdurl.net
+DOMAIN-SUFFIX,byteeffecttos.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,qishui.com
+DOMAIN-SUFFIX,byteurl.cn
