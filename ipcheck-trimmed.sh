@@ -8,9 +8,9 @@
 # 本文件由 build_trimmed.py 从原脚本自动抽取生成（保留区段未作改写）
 # 仓库：https://github.com/whooc/whooc-script
 #
-# 快速运行：
+# 快速运行（国内建议用加速地址，直连 raw 偶有截断）：
+#   bash <(curl -Ls https://gh-proxy.com/https://raw.githubusercontent.com/whooc/whooc-script/main/ipcheck-trimmed.sh)
 #   bash <(curl -Ls https://raw.githubusercontent.com/whooc/whooc-script/main/ipcheck-trimmed.sh)
-#   bash <(curl -Ls https://ghproxy.net/https://raw.githubusercontent.com/whooc/whooc-script/main/ipcheck-trimmed.sh)   # 国内加速
 # 参数：-4/-6 指定协议 · -f 显示完整IP · -n 跳过依赖安装 · -p 不生成报告链接
 # ============================================================
 script_version="v2026-09-16"
